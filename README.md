@@ -17,8 +17,6 @@
   <img alt="Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img alt="R" align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="Arduino" align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
- 
 
-  <h3 style="color:red; font-family:ver;text-align:justify;">Gosto de desenvolver aplicações para diversos dipositivos, também me interesso por áreas como Ciência de Dados e Machine Learning. Além de programar microcontroladores, como Arduino e ESP32, por exemplo. </h3>
 
  </div>
