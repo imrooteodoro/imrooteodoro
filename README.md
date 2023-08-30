@@ -4,6 +4,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/teodoro_rex)
 
 ![Teodoro Stats](https://github-readme-stats.vercel.app/api?username=imrooteodoro&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrooteodoro&layout=compact)](https://github.com/imrooteodoro/github-readme-stats)
 
 ### Tecnologias que utilizo e estudo:
 <div style="display:inline_block">
