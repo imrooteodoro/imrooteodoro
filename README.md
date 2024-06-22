@@ -19,8 +19,8 @@
 </h2>
 
 <div align="center">
-  ![](https://img.shields.io/badge/-RUST-339933?style=for-the-badge&logo=rust&color=black&logoColor=white)
-  ![](https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white)
+![](https://img.shields.io/badge/-RUST-339933?style=for-the-badge&logo=rust&color=black&logoColor=white)
+![](https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white)
 </div>
 
 
