@@ -8,19 +8,24 @@
 </h2>
 
 <div align="center">
+  
   ![](https://img.shields.io/badge/-TYPESCRIPT-339933?style=for-the-badge&logo=TypeScript&color=black&logoColor=white)
   ![](https://img.shields.io/badge/-PYTHON-339933?style=for-the-badge&logo=python&color=black&logoColor=white)
   ![](https://img.shields.io/badge/-JAVA-339933?style=for-the-badge&logo=openjdk&color=black&logoColor=white)
   ![](https://img.shields.io/badge/-C++-339933?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=white)
+  
 </div>
+
 
 <h2 align="center">
  Learning:
 </h2>
 
 <div align="center">
+  
 ![](https://img.shields.io/badge/-RUST-339933?style=for-the-badge&logo=rust&color=black&logoColor=white)
 ![](https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white)
+  
 </div>
 
 
@@ -30,6 +35,3 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrooteodoro&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-
-![snake gif](https://github.com/imrooteodoro/imrooteodoro/blob/output/github-contribution-grid-snake.gif)
