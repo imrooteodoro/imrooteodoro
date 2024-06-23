@@ -1,4 +1,4 @@
-<div background-color="black">
+<div style="background-color:black">
 <div align="center">  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=0D30C0&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+Everyone!;My+name+is+Adelson+Teodoro;I'm+a+Software+Developer)](https://git.io/typing-svg)
