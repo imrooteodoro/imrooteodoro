@@ -36,7 +36,7 @@
 </div>
 <div align="center">
   
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w44fq2nsyit9evlnby8yatk0i&cover_image=true&theme=default)
+![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w44fq2nsyit9evlnby8yatk0i&cover_image=true&theme=novatorem)
 
 </div>
 
