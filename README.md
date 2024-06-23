@@ -1,3 +1,4 @@
+<div background-color="black">
 <div align="center">  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=0D30C0&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+Everyone!;My+name+is+Adelson+Teodoro;I'm+a+Software+Developer)](https://git.io/typing-svg)
@@ -71,6 +72,8 @@
 <div align="center">
   
 ![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w44fq2nsyit9evlnby8yatk0i&cover_image=true&theme=novatorem)
+
+</div>
 
 </div>
 
