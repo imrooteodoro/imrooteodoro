@@ -36,7 +36,7 @@
 </div>
 <div align="center">
   
-[![Spotify](https://spotify-github-profile-s8j3s.vercel.app/9yijMGjwzY9q3q8LNayceWjWXWh4/api/spotify)](https://open.spotify.com/user/w44fq2nsyit9evlnby8yatk0i)
+[![Spotify](https://spotify-github-profile-s8j3s.vercel.app/api/spotify)](https://open.spotify.com/user/w44fq2nsyit9evlnby8yatk0i)
 
 </div>
 
