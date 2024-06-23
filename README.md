@@ -6,7 +6,8 @@
 <h2 align="center">
   Tech Stack:
 </h2>
-
+<h3> Languages:
+</h3>
 <div align="center">
   
   ![](https://img.shields.io/badge/-TYPESCRIPT-339933?style=for-the-badge&logo=TypeScript&color=black&logoColor=white)
@@ -16,16 +17,49 @@
   
 </div>
 
+<h3> Frameworks/Libs: </h3>
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/-ANGULAR-339933?style=for-the-badge&logo=Angular&color=black&logoColor=white)
+  ![](https://img.shields.io/badge/-flask-339933?style=for-the-badge&logo=flask&color=black&logoColor=white)
+  ![](https://img.shields.io/badge/-Arduino-339933?style=for-the-badge&logo=Arduino&color=black&logoColor=white)
+  ![](https://img.shields.io/badge/-Spring%20Boot-339933?style=for-the-badge&logo=spring&color=black&logoColor=white)
+  
+</div>
+
+
 
 <h2 align="center">
  Learning:
 </h2>
 
+<h3>Languages:</h3>
 <div align="center">
   
 ![](https://img.shields.io/badge/-RUST-339933?style=for-the-badge&logo=rust&color=black&logoColor=white)
-![](https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white)
   
+</div>
+
+<h3 align="center">
+  Frameworks/Libs:
+</h3>
+
+<div align="center">
+  
+ ![](https://img.shields.io/badge/-Rocket-339933?style=for-the-badge&logo=rocket&color=black&logoColor=white)
+ ![](https://img.shields.io/badge/-Serverless-339933?style=for-the-badge&logo=serverless&color=black&logoColor=white)
+
+
+</div>
+
+<h2 align="center" >Infra: </h2>
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/-Aws-339933?style=for-the-badge&logo=aws&color=black&logoColor=white)
+  ![](https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white)
+
 </div>
 
 
