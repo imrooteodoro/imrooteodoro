@@ -60,7 +60,7 @@
   
   ![](https://img.shields.io/badge/-Aws-339933?style=for-the-badge&logo=aws&color=black&logoColor=white)
   ![](https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white)
-  <a href="https://www.credly.com/badges/3a89054d-fef0-4d56-90bb-74d3d66555bb"> <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"></a>
+  <a href="https://www.credly.com/badges/3a89054d-fef0-4d56-90bb-74d3d66555bb"> <img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"></a>
 
 </div>
 
