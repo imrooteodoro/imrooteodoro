@@ -8,36 +8,28 @@
 
 <h2 align="center">Tech Stack:</h2>
 
-<h3>Languages:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/-PYTHON-339933?style=for-the-badge&logo=python&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-TYPESCRIPT-339933?style=for-the-badge&logo=TypeScript&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-JAVASCRIPT-339933?style=for-the-badge&logo=javascript&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-339933?style=for-the-badge&logo=postgresql&color=black&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/-JAVA-339933?style=for-the-badge&logo=java&color=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CPP-339933?style=for-the-badge&logo=cpp&color=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GOLANG-339933?style=for-the-badge&logo=go&color=black&logoColor=white" />
 
-<h3>Frameworks / Libs:</h3>
+</div>
+__
+
 <div align="center">
   <img src="https://img.shields.io/badge/-FLASK-339933?style=for-the-badge&logo=flask&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-FASTAPI-339933?style=for-the-badge&logo=fastapi&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangChain-339933?style=for-the-badge&logo=chainlink&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-ANGULAR-339933?style=for-the-badge&logo=Angular&color=black&logoColor=white" />
-</div>
-
-<h2 align="center">Learning:</h2>
-
-<h3>Languages:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/-RUST-339933?style=for-the-badge&logo=rust&color=black&logoColor=white" />
-</div>
-
-<h3>Frameworks / Libs:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Rocket-339933?style=for-the-badge&logo=rocket&color=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NEXTJS-339933?style=for-the-badge&logo=nextjs&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-Serverless-339933?style=for-the-badge&logo=serverless&color=black&logoColor=white" />
 </div>
 
-<h2 align="center">Infra:</h2>
+____
 <div align="center">
   <img src="https://img.shields.io/badge/-AWS-339933?style=for-the-badge&logo=amazon-aws&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-DOCKER-339933?style=for-the-badge&logo=docker&color=black&logoColor=white" />
