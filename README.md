@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/badge/-JAVASCRIPT-339933?style=for-the-badge&logo=javascript&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-339933?style=for-the-badge&logo=postgresql&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-JAVA-339933?style=for-the-badge&logo=java&color=black&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CPP-339933?style=for-the-badge&logo=cpp&color=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-339933?style=for-the-badge&logo=c++&color=black&logoColor=white" />
   <img src="https://img.shields.io/badge/-GOLANG-339933?style=for-the-badge&logo=go&color=black&logoColor=white" />
 
 </div>
-__
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/-FLASK-339933?style=for-the-badge&logo=flask&color=black&logoColor=white" />
