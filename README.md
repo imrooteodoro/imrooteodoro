@@ -1,4 +1,6 @@
 <div align="center">  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=header"/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=25&pause=1000&color=0D30C0&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+Everyone!;My+name+is+Adelson+Teodoro;I'm+an+AI+Engineer+%26+Backend+Developer" alt="Typing SVG" />
   </a>
@@ -59,3 +61,5 @@
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w44fq2nsyit9evlnby8yatk0i&cover_image=true&theme=natemoo-re" alt="Spotify Profile" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=footer"/>
