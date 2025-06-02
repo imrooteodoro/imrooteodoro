@@ -50,7 +50,7 @@ ____
 <br />
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w44fq2nsyit9evlnby8yatk0i&cover_image=true&theme=natemoo-re" alt="Spotify Profile" />
+  <img src="https://imrooteodoro.tech/api/spotify" alt="Spotify Profile" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=footer"/>
