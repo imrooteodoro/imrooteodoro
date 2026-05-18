@@ -43,10 +43,17 @@ ____
 
 <br />
 
-<div align="center">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrooteodoro&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats-one-omega-44.vercel.app//api?username=imrooteodoro&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-one-omega-44.vercel.app//api?username=imrooteodoro&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-one-omega-44.vercel.app//api?username=imrooteodoro&show_icons=true" />
+</picture>
 <br />
 
 <div align="center">
