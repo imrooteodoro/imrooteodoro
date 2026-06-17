@@ -43,19 +43,6 @@ ____
 
 <br />
 
-[<picture>
-  <source
-    srcset="https://github-readme-stats-one-omega-44.vercel.app/api?username=imrooteodoro&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-one-omega-44.vercel.app/api?username=imrooteodoro&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-one-omega-44.vercel.app/api?username=imrooteodoro&show_icons=true"/>
-</picture>
-<br />](url)
-
 <div align="center">
   <img src="https://imrooteodoro.vercel.app/api/spotify" alt="Spotify Profile" />
 </div>
