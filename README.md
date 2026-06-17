@@ -43,7 +43,7 @@ ____
 
 <br />
 
-<picture>
+[<picture>
   <source
     srcset="https://github-readme-stats-one-omega-44.vercel.app/api?username=imrooteodoro&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -54,7 +54,7 @@ ____
   />
   <img src="https://github-readme-stats-one-omega-44.vercel.app/api?username=imrooteodoro&show_icons=true"/>
 </picture>
-<br />
+<br />](url)
 
 <div align="center">
   <img src="https://imrooteodoro.vercel.app/api/spotify" alt="Spotify Profile" />
